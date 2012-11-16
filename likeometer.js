@@ -1,6 +1,4 @@
 (function($){
-
-
 	$.fn.likeometer=function(opts)
 	{
 		var $this,log,extTitle,fn,options,_default,run,elem,renderFb,fbScriptLoaded,loadingScript=false,showNext,items=[],i=0;
